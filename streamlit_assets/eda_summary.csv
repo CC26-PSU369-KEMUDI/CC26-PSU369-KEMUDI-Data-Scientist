@@ -1,0 +1,9 @@
+Aspek,Hasil
+Jumlah data,4000 gambar
+Distribusi kelas,Seimbang antara Closed dan Open
+Missing value,Tidak ditemukan
+Duplikasi,Tidak ditemukan
+Corrupt image,Tidak ditemukan
+Ukuran input,96×96×1
+Normalisasi pixel,0–1
+Split data,"70% train, 15% validation, 15% test"

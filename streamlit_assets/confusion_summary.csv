@@ -1,0 +1,5 @@
+Komponen,Nilai,Keterangan
+True Negative,300,Open diprediksi Open
+False Positive,0,Open salah diprediksi Closed
+False Negative,0,Closed salah diprediksi Open
+True Positive,300,Closed diprediksi Closed

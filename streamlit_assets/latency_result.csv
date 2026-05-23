@@ -1,0 +1,5 @@
+Metric,Value
+Sample Size,100.0
+Total Inference Time (s),0.6837198734283447
+Average Latency per Image (s),0.0068371987342834475
+Estimated FPS,146.25872946850976

@@ -1,0 +1,12 @@
+Kolom / Objek Data,Tipe Data,Deskripsi
+image_path,string,Lokasi file gambar pada direktori dataset.
+label,integer,"Label numerik gambar. 0 = Closed, 1 = Open."
+class,string,"Nama kelas gambar, yaitu Closed atau Open."
+images,numpy array,"Kumpulan gambar hasil feature engineering/preprocessing dengan ukuran 96x96, grayscale, dan nilai pixel 0-1."
+labels,numpy array,Kumpulan label numerik dari seluruh gambar.
+x_train,numpy array,Subset gambar untuk data training sesuai split pipeline AI.
+x_val,numpy array,Subset gambar untuk data validation yang digunakan dalam threshold analysis dan A/B testing.
+x_test,numpy array,Subset gambar untuk data testing yang digunakan dalam evaluasi akhir model.
+y_train,numpy array,Label untuk data training.
+y_val,numpy array,Label untuk data validation.
+y_test,numpy array,Label untuk data testing.

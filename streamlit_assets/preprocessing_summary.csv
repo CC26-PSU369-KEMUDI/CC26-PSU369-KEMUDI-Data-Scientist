@@ -1,0 +1,7 @@
+Tahap,Hasil
+Resize,96x96 pixel
+Grayscale,1 channel
+Normalisasi,0-1
+Dimensi input,"(96, 96, 1)"
+Nilai minimum pixel,0.0
+Nilai maksimum pixel,1.0
